@@ -3,7 +3,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi
-- [X - @yuseihaneishi](https://twitter.com/yuseihaneishi)
+- X : @yuseihaneishi](https://twitter.com/yuseihaneishi)
 <br>
 
 ## Skills
