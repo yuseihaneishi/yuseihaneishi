@@ -8,7 +8,6 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,c" />
-<br>
 
 ## Activities
 <div align="left"> 
