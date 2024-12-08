@@ -4,7 +4,7 @@
 
 ## Contacts
 X : @yuseihaneishi (https://x.com/yuseihaneishi)
-Facebook : https://www.facebook.com/profile.php?id=100083237122905
+S
 <br>
 
 ## Skills
