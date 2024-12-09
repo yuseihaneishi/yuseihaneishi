@@ -14,8 +14,8 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 - 2024 42TOKYO Computer Science
 
 ## Achievements
-2024/6 Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
-2024/1 - 2024/4　SHIBUYA QWS Challenge
+- 2024/6 Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
+- 2024/1 - 2024/4　SHIBUYA QWS Challenge
 
 ## Activities
 <div align="left"> 
