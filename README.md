@@ -11,7 +11,7 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 
 ## Academic background
 - 2023 Tokyo University of Science Department of Electronic Systems Engineering
-- 2024 42TOKYO Computer Science
+- 2024 42Tokyo Computer Science
 
 ## Achievements
 - 2024/6 Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
