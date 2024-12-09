@@ -10,7 +10,7 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,c" />
 
 ## Achievements
-松尾研AI起業 サークル主催: AI未来アイデアソン最優秀賞🏆  2024/6
+2024/6 Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
 
 ## Activities
 <div align="left"> 
