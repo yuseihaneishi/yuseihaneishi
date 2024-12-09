@@ -9,6 +9,9 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,c" />
 
+## Achievements
+松尾研AI起業 サークル主催: AI未来アイデアソン最優秀賞🏆  2024/6
+
 ## Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yuseihaneishi&theme=vue-dark&layout=compact" />
