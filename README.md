@@ -10,8 +10,8 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,c" />
 
 ## Academic background
-2023 Tokyo University of Science Department of Electronic Systems Engineering
-2024 42TOKYO
+- 2023 Tokyo University of Science Department of Electronic Systems Engineering
+- 2024 42TOKYO
 
 ## Achievements
 2024/6 Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
