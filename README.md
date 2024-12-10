@@ -15,7 +15,7 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 
 ## Achievements
 - Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
-- SHIBUYA QWS Challenge
+- SHIBUYA QWS 18th
 
 ## Activities
 <div align="left"> 
