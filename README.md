@@ -14,7 +14,7 @@ X : @yuseihaneishi (https://x.com/yuseihaneishi)
 - 42Tokyo Computer Science
 
 ## Achievements
-- Matsuo Institute AI Entrepreneurship Circle: AI Future Ideathon Grand Prize🏆
+- Matsuo Institute AI Entrepreneurship Circle MAIS: AI Future Ideathon Grand Prize🏆
 - SHIBUYA QWS 18th
 
 ## Activities
