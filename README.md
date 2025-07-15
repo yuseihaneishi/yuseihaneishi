@@ -4,8 +4,8 @@
 
 ## Contacts
 X : @yuseihaneishi (https://x.com/yuseihaneishi)
-Linkedin: 
 <br>
+Linkedin : Yusei Haneishi (https://www.linkedin.com/in/yuseihaneishi)
 
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,c" />
