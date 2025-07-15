@@ -4,6 +4,7 @@
 
 ## Contacts
 X : @yuseihaneishi (https://x.com/yuseihaneishi)
+Linkedin: 
 <br>
 
 ## Skills
