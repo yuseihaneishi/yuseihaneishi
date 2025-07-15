@@ -13,6 +13,7 @@ Linkedin:
 ## Academic background
 - Tokyo University of Science Department of Electronic Systems Engineering
 - 42Tokyo Computer Science
+- Linkdein Student Club Japan 
 
 ## Achievements
 - Matsuo Institute AI Entrepreneurship Circle MAIS: AI Future Ideathon Grand Prize🏆
