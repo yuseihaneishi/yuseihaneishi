@@ -2,21 +2,19 @@
   <img src="https://komarev.com/ghpvc/?username=yuseihaneishi" />
 </div>
 
-## Company
+## Work
 LINK Inc. Founder & CEO
 <br>
 HP : https://link-ai.co.jp
-<br>
-Mail : info@link-ai.co.jp
 
 ## Contacts
 X : @yuseihaneishi (https://x.com/yuseihaneishi)
 <br>
 Linkedin : Yusei Haneishi (https://www.linkedin.com/in/yuseihaneishi)
 <br>
-Mail✉️ : yusei.haneishi@link-ai.co.jp
+Mail : yusei.haneishi@link-ai.co.jp
 <br>
-Tel☎️ : 070-1404-1516
+Tel : 070-1404-1516
 
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,c" />
