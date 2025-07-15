@@ -2,8 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=yuseihaneishi" />
 </div>
 
-##Company
+## Company
 LINK Inc. Founder & CEO
+<br>
+HP : https://link-ai.co.jp
+<br>
+Mail : info@link-ai.co.jp
 
 ## Contacts
 X : @yuseihaneishi (https://x.com/yuseihaneishi)
